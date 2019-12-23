@@ -1,0 +1,39 @@
+function main(){
+   //your code here
+  putBeeper ();
+  turnLeft ();
+  move ();
+  
+
+ turnLeft ();
+ turnLeft ();
+ turnLeft ();
+ move ();
+ 
+ putBeeper ();  
+ turnLeft ();
+  move ();
+ turnLeft ();
+ turnLeft ();
+ turnLeft ();
+ move ();
+ putBeeper ();
+ 
+turnLeft ();
+move ();
+turnLeft ();
+turnLeft ();
+turnLeft ();
+move ();
+putBeeper ();
+
+turnLeft ();
+move ();
+turnLeft ();
+turnLeft ();
+turnLeft ();
+move ();
+putBeeper ();
+
+
+}
